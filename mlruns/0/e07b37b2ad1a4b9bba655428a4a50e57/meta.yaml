@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Scientist/MLFLow%20Tutorial/mlruns/0/e07b37b2ad1a4b9bba655428a4a50e57/artifacts
+end_time: 1711109041157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e07b37b2ad1a4b9bba655428a4a50e57
+run_name: spiffy-yak-991
+run_uuid: e07b37b2ad1a4b9bba655428a4a50e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711109037453
+status: 3
+tags: []
+user_id: HP

@@ -1,1 +1,7 @@
 "# MLFlow-Tutorial" 
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/AJITHKANNAN/MLFlow-Tutorial.mlflow \
+MLFLOW_TRACKING_USERNAME=AJITHKANNAN \
+MLFLOW_TRACKING_PASSWORD= 0ddddaa4477e1581adf202918710039d0ac9eb13 \
+python script.py
